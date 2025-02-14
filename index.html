@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Accedi al Mio Cuore ❤️</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container" id="login-box">
+        <h2>Accedi al Mio Cuore ❤️</h2>
+        <input type="text" id="username" placeholder="Nome Utente">
+        <input type="password" id="password" placeholder="Password">
+        <button onclick="verificaLogin()">Entra</button>
+        <p id="errore" class="nascosto">Credenziali errate! 😢</p>
+    </div>
+
+    <div class="container nascosto" id="lettera-box">
+        <p id="testoLettera"></p>
+        <button id="messaggioSegreto" class="nascosto" onclick="mostraMessaggio()">❤️ Ti Amo</button>
+        <p id="messaggioFinale" class="nascosto">Il mio amore per te non avrà mai fine... 💖</p>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+

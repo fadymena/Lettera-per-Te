@@ -29,6 +29,6 @@ function scriviLettera() {
 }
 
 function mostraMessaggio() {
-  document.getElementById("messaggioFinale").style.display = "block";
   document.getElementById("messaggioFinaleFiore").style.display = "block";
+  document.getElementById("messaggioFinale").style.display = "block";
 }

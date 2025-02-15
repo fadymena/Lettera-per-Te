@@ -57,11 +57,24 @@ button:hover {
 }
 
 #testoLettera,
+#messaggioFinale,
 #testoMiManchi,
-#messaggioFinale {
+#dataMiManchi {
     font-size: 22px;
     line-height: 1.5;
     padding: 15px;
+}
+
+#testoMiManchi {
+    padding: 10px !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+
+#dataMiManchi {
+    font-size: 20px !important;
+    margin-bottom: 0 !important;
+    padding-bottom: 0 !important;
 }
 
 #messaggioFinaleFiore {

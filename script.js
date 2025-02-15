@@ -27,7 +27,7 @@ function scriviLettera() {
   if (i < testo.length) {
     document.getElementById("testoLettera").innerHTML += testo.charAt(i);
     i++;
-    setTimeout(scriviLettera, 10);
+    setTimeout(scriviLettera, 50);
   } else {
     document.getElementById("messaggioSegreto").style.display = "block";
   }

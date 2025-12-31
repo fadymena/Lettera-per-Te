@@ -16,7 +16,7 @@ function verificaLogin() {
 
 const k_velocita_testo = 0.8;
 
-const testo = "";
+const testo = "Salgo sul primo treno per marte... 💖 Ti voglio bene";
   // "Mia bimba Marzietta, nemmeno l'intero mare basterebbe a placare la sete che ho di te. Sei la mia acqua, il mio respiro, il desiderio che non conosce fine. Più ti amo, più ti voglio... 💖";
 
 const dataArray = [

@@ -1,4 +1,4 @@
-const usernameCorretto = "areeba";
+const usernameCorretto = "bimba-mia";
 // const passwordCorretta = "TVB";
 
 function verificaLogin() {
@@ -16,24 +16,13 @@ function verificaLogin() {
 
 const k_velocita_testo = 0.8;
 
-const testo =
-  "Mia amata Ari, nemmeno l'intero mare basterebbe a placare la sete che ho di te. Sei la mia acqua, il mio respiro, il desiderio che non conosce fine. Più ti amo, più ti voglio... 💖";
+const testo = "";
+  // "Mia bimba Marzietta, nemmeno l'intero mare basterebbe a placare la sete che ho di te. Sei la mia acqua, il mio respiro, il desiderio che non conosce fine. Più ti amo, più ti voglio... 💖";
 
 const dataArray = [
   {
-    '<p class="dataMessaggio">15/02/2025 18:50<p>': `<p class="contenutoMessaggio">
-      Mi manchi come il sonno a uno studente sotto esami, come il sole nei giorni di cielo grigio, come un bagno caldo nel mare d'inverno... 💖
-      </p>`,
-  },
-  {
-    '<img id="messaggioFinaleFiore" src="flower.gif" alt="my flower" /><p class="dataMessaggio">22/02/2025 16:40<p>': `
-    <p class="contenutoMessaggio">
-    Ho il dubbio che leggerai mai questo messagggio, ma se lo dovessi mai fare sappi che ti penso tutto il tempo
-    </p>`,
-  },
-  {
     '<div id="heartChart"></div><p class="dataMessaggio">26/02/2025 19:10<p>': `<p class="contenutoMessaggio">
-      Ascolta questa canzone, è per te <a href="https://www.youtube.com/watch?v=-TXtyYZIiWc">Past Lives 🎸</a>
+      Ascolta questa canzone, è per te <a href="https://youtu.be/ofqn8t8iajI?si=DrOjum1hr6AD7mKT">Angela 🎸</a>
     </p>`,
   },
 ];
